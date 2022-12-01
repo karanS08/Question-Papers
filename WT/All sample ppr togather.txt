@@ -1,0 +1,46 @@
+What is HTML.
+Discuss the syntax of CSS.
+What are the advantages of XML.
+Discuss different elements of XSL.
+How can PHP and Javascript interact?
+What is World Wide Web?
+Discuss the concept of Java Script.
+What are the different versions of XML?
+It is possible to set an infinite execution time for PHP script, How?
+What is way to create XSL Style sheet?
+What is Web Server?
+Define variable. How to declare the variable in Java Script?
+What is the full form of DTD? Write any 2 advantage s and disadvantages of DTD.
+Define XML. What is syntax to write XML?
+Discuss the role of XSLT.
+
+
+##################################################################################################
+
+
+Explain the purpose and way of creating lists in HTML documents.
+With the help of program, Examine the use of External Style sheet in CSS.
+Summarize the concept of Hash Table in PHP.
+Formulate the main syntax of XML and Differentiate between XML and XSLT.
+Here we have multiple HTTP request methods, Discuss any five.
+CSS has multiple text properties, Discuss any 10 with the help of program
+Conclude the concept of Hash Function in PHP.
+With the help of implementation examples differentiate between HTML and XML. 
+Explain the concept of TCP/IP in Detail.
+Discuss the use of CSS border and CSS outline with the help of program.
+Summarize the concept of XSLT with the help of example.
+With the help of program differentiate between XML and XSL.
+
+
+##################################################################################################
+
+
+Explain the concept of Ajax in detail.
+Interpret the steps involved in a web based client server communication.
+Create a PHP program for a website which show all steps of database connectivity in detail. 
+Discuss HTML elements in detail.
+Explain the concept of table tag in HTML and what is significance of it?
+Design the structure of PHP database connectivity with the help of PHP program.
+Describe HTML frame and table tags in detail with the help of example.
+Illustrate the structure of XML along with its components.
+Write a program to develop a form in PHP and make connectivity with database.

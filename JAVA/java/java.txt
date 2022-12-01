@@ -1,0 +1,118 @@
+section A - 5x2 =10
+section B - 4x5 =20
+section C - 3x10 = 30
+
+java important questions 
+
+1. Define abstarct class and interface
+2. define throw and throws.
+3. How we can achieve polymorphism.
+4. Define overloading and overriding.
+5. Define compile time and run time polymorphism.
+6. Define try, catch, throw, throws and finally.
+7. List down the keywords that are used in java but not in C++.
+8. Explain how thread can be created.
+9. Jsp declaration, directions, directives, scriplets.
+10. Life cycle of servlet.
+11. Explain component of web container.
+12. Wrapper class.
+13. Explain Exception class hierarchy and write a program to elaborate checked exception
+and unchecked exception.
+14. Elaborate different steps involved in jdbc with example.
+15. Iostream hierarchy.
+16. Workings of service methods of servlets.
+17. Different get and post methods. 
+18. How we can achieve mutiple inheritance in java?
+19. Demonstrate the visibility of access modifiers with example of program(10 marks).
+20. How thread can be created in java, explain different technology of thread synchroni-
+zation with the help of example.( 10 marks )
+21. Advance of servlet over CGI.( common gateway interface ).
+
+Full Form of Java 
+JVM
+JDK
+JRE
+JDBC 
+OVERRIDING & OVERLOADING 
+OBL
+APLETS VS SERVLETS
+
+Servelt vala pkka confirm
+Unti 2 se jdbc
+
+
+*********JAVA IMP***************
+difference between cpp and java?
+what are the difference in cpp and java in respect of methods?
+why java is called platform independent?
+what is the role of JVM?
+different access modifiers?
+what is abstraction?
+**difference between this and super keyword?
+*********throw and throws
+*********checked and unchecked exception?
+*********list ,set and map
+*********finally and finalized keyword
+*********wait and sleep method
+*********link list and array list
+why we use iterator?
+lifecycle of JSP/servlet/thread?
+difference between do get and go post method
+architecture of JVM?
+difference between 1d and 2d array?
+how to reverse the matrix?
+role of throwable class and its sub classes?
+multiple inheritance in java
+exceptional handling
+heirarchy of exception 
+deifference between overloading and overriding
+*high school application*
+   animal(eat sleep)
+   bank(ICI/kotak)
+difference between all the collections
+what are the steps to show the connectivity of database
+what is multithreading(synchronization )
+use of transint keyword in serialization
+write a program for file input stream and file output stream
+ways to create threads
+
+*******************UNIT 3*************************
+create a login page for jsp and servelet
+lifecycle of JSP and servelet
+advantage of JSP over servelet
+what is JSP declaration and JSP directive
+difference between JSP include tage and page tag
+why XML is better than HTML
+Difference between XML parser and dome parser
+include actions and include directives
+different scope values for JSP
+Mvc model in JSP
+
+
+1. Define abstarct class and interface
+2. define throw and throws.
+3. How we can achieve polymorphism.
+4. Define overloading and overriding.
+5. Define compile time and run time polymorphism.
+6. Define try, catch, throw, throws and finally.
+7. List down the keywords that are used in java but not in C++.
+8. Explain how thread can be created.
+9. Jsp declaration, directions, directives, scriplets.
+10. Life cycle of servlet.
+11. Explain component of web container.
+12. Wrapper class.
+13. Explain Exception class hierarchy and write a program to elaborate checked exception
+and unchecked exception.
+14. Elaborate different steps involved in jdbc with example.
+15. Iostream hierarchy.
+16. Workings of service methods of servlets.
+17. Different get and post methods. 
+18. How we can achieve mutiple inheritance in java?
+19. Demonstrate the visibility of access modifiers with example of program(10 marks).
+20. How thread can be created in java, explain different technology of thread synchroni-
+zation with the help of example.( 10 marks )
+21. Advance of servlet over CGI.( common gateway interface ).
+
+
+https://drive.google.com/drive/folders/17wCrcPt5780EKyK0Upss3uG4AmFn8tar?usp=sharing
+

@@ -1,0 +1,92 @@
+########################### 2 marks ###########################################
+
+What is Fork system call?
+What is a semaphore?
+Distinguish between hacker and cracker
+What is cypher text?
+What is a peer to peer network?
+What is TLB?		Translation Lookaside Buffer (TLB) in Paging
+Define access time
+What is time sharing OS?
+What is worm?
+What are the advantages of star topology?
+What are the three main uses of OS?
+What is deadlock?
+What is segmentation?
+What are the different types of networks?
+What is session hijacking?
+
+
+
+
+########################### 5 marks ###########################################
+
+
+
+When does the deadlock occur? Explain deadlock detection and recovery in detail.
+
+What is critical section problem? Explain any one problem with solution.Explain with the help of diagram functionality of client server network
+
+Elaborate the concept of system threat with the help of example.
+
+Given a total of 10 units of a resource type, and given the safe state shown below, should process P2 be granted a request of 2 additional resources?
+Process   Used   Max
+       P1        2      5
+       P2        1      6
+       P3        2      6
+       P4        1      2
+       P5        1      4
+What do you mean by page-fault? When does page-fault occur? Describe the action taken by the O.S when page fault occur
+
+Explain CIA in detail
+
+Write a short note on
+    a) levels of security measures
+difference between security and protection
+
+
+a.) With the help of a neat diagram elaborate the concept of process and its states?
+b.) Construct the Process Control Block along with its description in detail?
+
+
+Consider a disk with 200 tracks and the queue has random requests from different processes in the order:
+55, 58, 39, 18, 90, 160, 150, 38, 184
+
+Initially arm is at 100. Find the Average Seek length using FIFO, SSTF.
+
+With suitable example differentiate between Network Operating System and Distributed Operating System.
+
+What is access matrix? Explain the implementation of access matrix
+
+
+
+########################### 10 marks ###########################################
+
+
+
+
+Which of the following scheduling algorithms could result in starvation? Explain in detail?
+a. First-come, first-served
+b. Shortest job first
+c. 
+d. Priority
+
+Explain the concept of virtual memory along with demand paging.
+
+Explain DDOs? Explain the difference between DDOS and DOS attack.
+
+What are the different type of operating systems in detail. Also describe advantages and disadvantages of each type?
+
+Explain the concept of FRAGMENTATION in detail
+
+a) What is the difference between a client and a server?             
+b)Distinguish between client-server and peer to peer models of distributed system.                                                       
+
+Enumerate the different operating system structure and explain with neat sketch
+
+a.) Evaluating the maximum number of pages needed, if a system supports 16 bit address 
+and 1K page size.
+b.) What is the  difference  between  user-level  instructions  and privileged instructions?
+
+
+What is encryption? Explain the working with the help of example
